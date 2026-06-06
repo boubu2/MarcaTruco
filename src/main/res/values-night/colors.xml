@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7986CB</color> <!-- Lighter Indigo for Dark Mode -->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonColor">#7986CB</color> <!-- Lighter button in dark mode -->
+    <color name="textColorPrimary">#E8EAF6</color> <!-- Near white text -->
+    <color name="backgroundColor">#121212</color> <!-- Material Dark background -->
+    <color name="cardBackgroundColor">#1E1E1E</color> <!-- Dark surface color -->
+    <color name="borderColor">#424242</color> <!-- Lighter border for visibility on dark -->
+</resources>
